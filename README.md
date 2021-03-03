@@ -80,7 +80,7 @@
 
 <div class="highlight highlight-source-shell">
  <pre>
- git clone https://github.com/Shynjy/moveit-dev-nextjs.git + nome do clone do repositório
+ git clone https://github.com/rodrigomotamendes/nlw4_moveit-next/
 
 </pre>
 
