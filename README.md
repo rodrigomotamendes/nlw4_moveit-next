@@ -2,5 +2,5 @@
  Move.it - Next Level Week 4
 
 <p align="center">
-![alt text](https://github.com/rodrigomotamendes/nlw4_moveit-next/blob/main/public/logo-full.svg)
+ <img src="https://github.com/rodrigomotamendes/nlw4_moveit-next/blob/main/public/logo-full.svg" width="350" alt="accessibility text">
 </p>
