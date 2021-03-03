@@ -11,3 +11,14 @@
 <h2>Descrição</h2>
 
 <p> Aplicação realizada na Semana Next Level Week da Rocketseat. Site que utiliza a técnica de Pomodoro, no qual após 25 minutos de concentração são realizados intervalos com um desafio de exercício físico.</p>
+
+
+<h2>Tecnologias</h2>
+
+<p> Tecnologias utilizadas para a criação da aplicação</p>
+
+<ul>
+ <li>
+  <a href='https://reactjs.org/' rel="nofollow">ReactJS</a>
+ </li>
+</u>
