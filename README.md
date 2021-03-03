@@ -1,4 +1,4 @@
-# Move.it - Next Level Week 4 - Rocketseat 
+<h1 align="center" Move.it - Next Level Week 4 - Rocketseat </h1>
 
 <p align="center">
  <img src="https://github.com/rodrigomotamendes/nlw4_moveit-next/blob/main/public/logo-full.svg" width="350" alt="accessibility text">
